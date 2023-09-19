@@ -3,3 +3,9 @@ html {
   width: 100%;
 }
 a{margin: 10px;}
+a img{width: 30px;}
+img{width: 400px;}
+div{padding: 5px;margin: 5px;}
+.red{background-color: red;}
+.yellow{background-color: yellow;}
+.pink{background-color: pink;}
